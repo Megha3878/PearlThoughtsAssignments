@@ -1,0 +1,2 @@
+# PearlThoughtsAssignments
+Task of interview
